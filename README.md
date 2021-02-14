@@ -1,2 +1,2 @@
-# Izy
+# Izy Bot
 Bot 
